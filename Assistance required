@@ -1,0 +1,11 @@
+Hello,
+
+I want to make a program with WEMOS D1 mini a TFT screen and SD card that displays .jpg photo's from the card.
+
+I can do the same with an ESP32, but can't work out how to do the same with WEMOS D1 mini.
+
+My preferance is for iLi9341 (Bodmer library) but am open to suggestions.
+
+Many thanks for any help.
+
+Peter.
